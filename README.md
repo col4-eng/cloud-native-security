@@ -45,5 +45,3 @@
 - https://github.com/k8s-sec/
 - https://github.com/Pray3r/cloud-native-security
 - https://github.com/krol3/workshop-cloud-native-security
-- https://github.com/cncf/tag-security/blob/main/security-whitepaper/cloud-native-security-whitepaper-simplified-chinese.md
-- 
