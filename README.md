@@ -31,7 +31,13 @@
 - [云原生——容器和应用安全运营实践思考](https://security.tencent.com/index.php/blog/msg/200)
 - [容器安全之容器逃逸](https://fun0nydg.github.io/2021/05/28/container-escape-learning.html)
 - [debugfs在容器逃逸中的作用](https://fun0nydg.github.io/2021/06/19/The-role-of-debugfs-in-container-escape.html)
-
+- [深入浅出云原生环境信息收集技术](https://mp.weixin.qq.com/s/qCfH80BWOTTOA707wVSY-w)
+- [Tutorial: Kubernetes Vulnerability Scanning & Testing With Open Source](https://www.conjur.org/blog/tutorial-kubernetes-vulnerability-scanning-testing-with-open-source/)
+- [S3存储桶数据泄露情况研究](https://mp.weixin.qq.com/s/N5f9hqg3swg1CFhXTZMtLQ)
+- [容器镜像的安全备忘单(Cheatsheet)](https://mp.weixin.qq.com/s/QiRRkDkl6Dcic2mW7pv0nw)
+- [红队视角下的公有云基础组件安全](https://mp.weixin.qq.com/s/r0DuASP6gH_48b5sJ1DCTw)
+- [云原生之Kubernetes安全](https://www.freebuf.com/articles/database/316788.html)
+- [红蓝对抗 | 容器环境红队手法总结](https://mp.weixin.qq.com/s/WaRECg79Nxx08iekakrlMA)
 
 相关Github
 ---
